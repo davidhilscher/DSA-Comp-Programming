@@ -1,4 +1,7 @@
 # DSA-Comp-Programming
+
+![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+
 LeetCode Practice (Python)
 
 Tracking my progress solving LeetCode problems using Python.
