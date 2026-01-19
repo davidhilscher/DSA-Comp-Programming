@@ -1,5 +1,5 @@
 """ LC 49 - strings """
-
+# one of the harder string problems I've seen. Never used defaultdict before
 
 from collections import defaultdict # dict that defaults to __blank__ (list, 0, etc.)
 
